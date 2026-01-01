@@ -14,7 +14,7 @@ export default function WhoWeAre() {
                             {/* Quote Card */}
                             <div className="col-span-2 -mt-16 mx-8 bg-white rounded-xl p-6 shadow-xl border border-primary-200 relative z-10">
                                 <div className="flex flex-col gap-3">
-                                    <div className="text-primary-600 text-4xl leading-none">"</div>
+                                    <div className="text-primary-600 text-4xl leading-none">&quot;</div>
                                     <p className="text-primary-900 font-semibold text-lg leading-relaxed">
                                         Justice delayed is justice denied, and we fight to ensure your rights are protected swiftly.
                                     </p>
@@ -38,7 +38,7 @@ export default function WhoWeAre() {
                                 For over two decades, AKTLAWFIRM has been a pillar of integrity and expertise in the legal community. We are dedicated to defending your rights with unwavering commitment and personalized attention.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                Our team of seasoned attorneys brings a wealth of knowledge across multiple practice areas, ensuring that whether you're facing a corporate challenge, personal dispute, or family matter, you have the strongest advocate by your side. We don't just represent clients—we build lasting relationships founded on trust, transparency, and results.
+                                Our team of seasoned attorneys brings a wealth of knowledge across multiple practice areas, ensuring that whether you&apos;re facing a corporate challenge, personal dispute, or family matter, you have the strongest advocate by your side. We don&apos;t just represent clients—we build lasting relationships founded on trust, transparency, and results.
                             </p>
                         </div>
 

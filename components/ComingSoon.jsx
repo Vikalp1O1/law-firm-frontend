@@ -38,7 +38,7 @@ export default function ComingSoon() {
 
                     {/* Main Heading */}
                     <h1 className="text-5xl md:text-7xl font-serif font-bold text-primary-900 mb-6 animate-fade-in-up">
-                        We're Launching
+                        We&apos;re Launching
                         <span className="block text-transparent bg-clip-text bg-gradient-to-r from-gray-500 via-gray-600 to-gray-700 mt-2">
                             Something Special
                         </span>
@@ -46,7 +46,7 @@ export default function ComingSoon() {
 
                     {/* Description */}
                     <p className="text-xl md:text-2xl text-primary-700 mb-12 max-w-2xl mx-auto leading-relaxed animate-fade-in-up animation-delay-200">
-                        Our new website is under construction. We're working hard to bring you an exceptional experience in legal excellence.
+                        Our new website is under construction. We&apos;re working hard to bring you an exceptional experience in legal excellence.
                     </p>
 
                     {/* Email Subscription Form */}
@@ -69,7 +69,7 @@ export default function ComingSoon() {
                         </form>
                         {submitted && (
                             <p className="mt-4 text-accent-700 font-medium animate-fade-in">
-                                ✓ Thank you! We'll notify you when we launch.
+                                ✓ Thank you! We&apos;ll notify you when we launch.
                             </p>
                         )}
                     </div>

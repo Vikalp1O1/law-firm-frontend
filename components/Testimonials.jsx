@@ -32,7 +32,7 @@ export default function Testimonials() {
                     <div className="grid md:grid-cols-3 gap-8">
                         {testimonials.map((testimonial, index) => (
                             <div key={index} className="bg-white p-8 rounded-xl shadow-sm border border-primary-200">
-                                <div className="text-primary-600 mb-4 text-4xl">"</div>
+                                <div className="text-primary-600 mb-4 text-4xl">&quot;</div>
                                 <p className="text-gray-600 italic mb-6">{testimonial.quote}</p>
                                 <div className="flex items-center gap-3">
                                     <div 

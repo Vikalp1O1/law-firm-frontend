@@ -28,7 +28,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <p className="text-primary-200 mb-4 max-w-md">
-                            Providing exceptional legal services with integrity, professionalism, and dedication to our clients' success.
+                            Providing exceptional legal services with integrity, professionalism, and dedication to our clients&apos; success.
                         </p>
                         <div className="flex space-x-4">
                             <a
