@@ -26,7 +26,7 @@ export default function TeamHero() {
                     </div>
                 </div>
                 <div className="lg:col-span-5 relative">
-                    <div className="absolute -top-20 -right-20 w-[140%] h-[140%] bg-primary-100 rounded-full blur-[80px] opacity-60 -z-10"></div>
+                    <div className="absolute -top-20 -right-20 w-fit md:w-[140%] h-[140%] bg-primary-100 rounded-full blur-[80px] opacity-60 -z-10"></div>
                     <div className="relative w-full aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl ring-1 ring-white/50">
                         <div className="w-full h-full bg-cover bg-center" style={{backgroundImage: 'url("/image/team-bg.webp")'}}></div>
                         <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black/80 via-black/40 to-transparent text-white">
