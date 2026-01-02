@@ -11,16 +11,19 @@ export default function Footer() {
                     {/* Company Info */}
                     <div className="col-span-1 md:col-span-2">
                         <div className="flex items-center space-x-3 mb-4">
+                            <div className="h-24 w-24">
+
                             <Image 
                                 src="/logo2.webp" 
                                 alt="Law Firm Logo" 
-                                width={100} 
-                                height={100}
-                                className="object-contain"
+                                width={180} 
+                                height={180}
+                                className="object-cover w-full h-full"
                             />
+                            </div>
                             <div className="flex flex-col">
-                                <span className="text-white font-serif text-xl font-bold leading-none">
-                                    AKTLawFirm
+                                <span className="text-primary-200 font-serif text-xl font-bold leading-none">
+                                    AKT Law Offices
                                 </span>
                                 <span className="text-accent-300 text-xs font-sans tracking-wider">
                                    Fiat Justitia Ruat Caelum
