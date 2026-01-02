@@ -19,7 +19,7 @@ export default function Header() {
                                 alt="Law Firm Logo" 
                                 width={180} 
                                 height={180}
-                                className="object-contain -mr-6"
+                                className="object-contain -mr-6 -ml-10"
                                 priority
                             />
                             <div className="flex flex-col ">
